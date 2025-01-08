@@ -1,6 +1,7 @@
 import cv2
 import numpy as np
 import time
+  
 
 def create_background(cap, num_frames=30):
     print("Capturing background. Please move out of frame.")
