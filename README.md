@@ -3,10 +3,6 @@
 ## Project Overview
 The **Cloak of Invisibility** is a cutting-edge project inspired by the magical world of Harry Potter. Using advanced techniques in computer vision and optical camouflage, this project creates the illusion of invisibility by blending the wearer seamlessly into the background. 
 
-## Features
-- **Real-time Camouflage:** The cloak adapts instantly to the surrounding environment for a seamless effect.
-- **Lightweight Design:** Designed for ease of use and wearability.
-- **Portable Setup:** Operates with minimal hardware, ensuring maximum flexibility.
 
 ## Technologies Used
 - **OpenCV:** For computer vision and image processing.
